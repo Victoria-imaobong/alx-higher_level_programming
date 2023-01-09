@@ -2,7 +2,7 @@
 
 
 def magic_calculation(a, b):
-    """Does a task based on a bytecoode"""
+    """Does a task based on a bytecode"""
     from magic_calculation_102 import add, sub
 
     if a < b:
